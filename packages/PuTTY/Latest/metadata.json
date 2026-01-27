@@ -1,0 +1,15 @@
+{
+  "packageId": "PuTTY.PuTTY",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Simon Tatham",
+  "appName": "PuTTY",
+  "appVersion": "Latest",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install --id PuTTY.PuTTY --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-01-27T21:03:22.614Z",
+  "updatedAt": "2026-01-27T21:03:25.859Z"
+}
