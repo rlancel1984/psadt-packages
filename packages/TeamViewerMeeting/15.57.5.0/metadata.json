@@ -1,0 +1,13 @@
+{
+  "packageId": "TeamViewerMeeting_Setup_x64",
+  "type": "exe",
+  "installerType": "unknown",
+  "appVendor": "TeamViewer",
+  "appName": "TeamViewerMeeting",
+  "appVersion": "15.57.5.0",
+  "appArch": "x86",
+  "productCode": null,
+  "silentParameters": "/S /silent /quiet",
+  "createdAt": "2026-01-27T19:20:19.601Z",
+  "updatedAt": "2026-01-27T19:20:37.410Z"
+}
