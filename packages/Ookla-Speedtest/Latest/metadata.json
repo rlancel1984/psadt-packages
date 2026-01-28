@@ -1,0 +1,15 @@
+{
+  "packageId": "Ookla.Speedtest.Desktop",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Ookla",
+  "appName": "Ookla Speedtest",
+  "appVersion": "Latest",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install --id Ookla.Speedtest.Desktop --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-01-28T13:18:53.298Z",
+  "updatedAt": "2026-01-28T13:19:25.108Z"
+}
