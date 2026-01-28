@@ -1,0 +1,15 @@
+{
+  "packageId": "Brandmeester B.V..p12",
+  "type": "P12",
+  "installerType": null,
+  "appVendor": "Brandmeester B.V.",
+  "appName": "Certificate_Brandmeester_B.V.",
+  "appVersion": "2027",
+  "appArch": null,
+  "productCode": null,
+  "silentParameters": null,
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-01-28T18:47:00.620Z",
+  "updatedAt": "2026-01-28T18:47:19.444Z"
+}
