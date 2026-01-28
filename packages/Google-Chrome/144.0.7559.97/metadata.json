@@ -1,0 +1,15 @@
+{
+  "packageId": "GoogleChromeStandaloneEnterprise_Arm64",
+  "type": "msi",
+  "installerType": "msi",
+  "appVendor": "Google LLC",
+  "appName": "Google Chrome",
+  "appVersion": "144.0.7559.97",
+  "appArch": "",
+  "productCode": "{6652994E-F8CB-3712-9FBF-4EE6C4F8705C}",
+  "silentParameters": "/qn /norestart ALLUSERS=1",
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-01-28T08:56:44.886Z",
+  "updatedAt": "2026-01-28T08:56:58.530Z"
+}
