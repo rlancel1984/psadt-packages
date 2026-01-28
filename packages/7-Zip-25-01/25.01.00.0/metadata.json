@@ -1,0 +1,15 @@
+{
+  "packageId": "7z2501",
+  "type": "msi",
+  "installerType": "msi",
+  "appVendor": "Igor Pavlov",
+  "appName": "7-Zip 25.01",
+  "appVersion": "25.01.00.0",
+  "appArch": "",
+  "productCode": "{23170F69-40C1-2701-2501-000001000000}",
+  "silentParameters": "/qn /norestart ALLUSERS=1",
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-01-28T07:27:31.616Z",
+  "updatedAt": "2026-01-28T07:29:53.776Z"
+}
