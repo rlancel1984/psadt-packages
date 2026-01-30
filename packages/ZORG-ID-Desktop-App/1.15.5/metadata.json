@@ -1,0 +1,15 @@
+{
+  "packageId": "ZORG-ID Desktop App for Windows-1.15.5",
+  "type": "msi",
+  "installerType": "msi",
+  "appVendor": "AET Mobile B.V.",
+  "appName": "ZORG-ID Desktop App",
+  "appVersion": "1.15.5",
+  "appArch": "",
+  "productCode": "{428494EF-BC1D-49BF-8452-9DC51B9A582D}",
+  "silentParameters": "/qn /norestart ALLUSERS=1",
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-01-30T14:37:15.441Z",
+  "updatedAt": "2026-01-30T14:37:32.983Z"
+}
