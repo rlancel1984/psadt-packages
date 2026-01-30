@@ -1,0 +1,15 @@
+{
+  "packageId": "npp.8.9.1.Installer.x64",
+  "type": "msi",
+  "installerType": "msi",
+  "appVendor": "Notepad++ team",
+  "appName": "Notepad++",
+  "appVersion": "8.9.1",
+  "appArch": "x64",
+  "productCode": "{7349B4F3-02E1-4234-A67A-FA85B33B67AF}",
+  "silentParameters": "/qn /norestart ALLUSERS=1",
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-01-30T07:07:28.663Z",
+  "updatedAt": "2026-01-30T07:10:31.974Z"
+}
