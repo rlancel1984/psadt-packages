@@ -1,0 +1,15 @@
+{
+  "packageId": "Notepad++.Notepad++",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Notepad++ Team",
+  "appName": "Notepad++",
+  "appVersion": "8.5",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install --id Notepad++.Notepad++ --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-01-30T07:56:10.565Z",
+  "updatedAt": "2026-01-30T07:56:36.696Z"
+}
