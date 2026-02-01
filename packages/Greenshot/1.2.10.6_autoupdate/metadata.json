@@ -1,0 +1,15 @@
+{
+  "packageId": "Greenshot.Greenshot",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Greenshot",
+  "appName": "Greenshot",
+  "appVersion": "1.2.10.6",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install --id Greenshot.Greenshot --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": true,
+  "createdAt": "2026-02-01T20:11:55.729Z",
+  "updatedAt": "2026-02-01T20:12:09.680Z"
+}
