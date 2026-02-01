@@ -1,0 +1,15 @@
+{
+  "packageId": "Zoom.Zoom",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Zoom",
+  "appName": "Zoom",
+  "appVersion": "5.13.11835",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install --id Zoom.Zoom --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": true,
+  "createdAt": "2026-02-01T20:16:20.776Z",
+  "updatedAt": "2026-02-01T20:16:47.424Z"
+}
