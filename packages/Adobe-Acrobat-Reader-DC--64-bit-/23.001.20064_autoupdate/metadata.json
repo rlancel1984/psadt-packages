@@ -1,0 +1,15 @@
+{
+  "packageId": "Adobe.Acrobat.Reader.64-bit",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Adobe",
+  "appName": "Adobe Acrobat Reader DC (64-bit)",
+  "appVersion": "23.001.20064",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install --id Adobe.Acrobat.Reader.64-bit --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": true,
+  "createdAt": "2026-02-01T20:34:21.077Z",
+  "updatedAt": "2026-02-01T20:34:36.857Z"
+}
