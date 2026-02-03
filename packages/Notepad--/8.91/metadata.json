@@ -1,0 +1,15 @@
+{
+  "packageId": "npp.8.9.1.Installer.x64",
+  "type": "exe",
+  "installerType": "nsis",
+  "appVendor": "Notepad",
+  "appName": "Notepad++",
+  "appVersion": "8.91",
+  "appArch": "x86",
+  "productCode": null,
+  "silentParameters": "/S",
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-02-03T03:38:39.518Z",
+  "updatedAt": "2026-02-03T03:39:46.178Z"
+}
