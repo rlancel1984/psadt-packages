@@ -1,0 +1,15 @@
+{
+  "packageId": "Microsoft.RemoteDesktopClient",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Microsoft Corporation",
+  "appName": "Remote Desktop",
+  "appVersion": "1.2.3918.0",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install --id Microsoft.RemoteDesktopClient --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": true,
+  "createdAt": "2026-02-04T09:58:40.630Z",
+  "updatedAt": "2026-02-04T09:59:25.277Z"
+}
