@@ -1,0 +1,15 @@
+{
+  "packageId": "RemoteDesktop_1.2.6980.0_x64",
+  "type": "msi",
+  "installerType": "msi",
+  "appVendor": "Microsoft Corporation",
+  "appName": "Remote Desktop",
+  "appVersion": "1.2.6980.0",
+  "appArch": "x64",
+  "productCode": "{C0C07FF6-EA3D-44D8-994D-05428800F80D}",
+  "silentParameters": "/qn /norestart ALLUSERS=1",
+  "requireAdmin": false,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-02-06T10:38:33.886Z",
+  "updatedAt": "2026-02-06T10:39:08.578Z"
+}
