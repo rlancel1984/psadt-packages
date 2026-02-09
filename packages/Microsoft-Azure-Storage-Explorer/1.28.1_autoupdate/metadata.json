@@ -1,0 +1,15 @@
+{
+  "packageId": "Microsoft.Azure.StorageExplorer",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Microsoft Corporation",
+  "appName": "Microsoft Azure Storage Explorer",
+  "appVersion": "1.28.1",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install --id Microsoft.Azure.StorageExplorer --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": true,
+  "createdAt": "2026-02-09T12:02:18.473Z",
+  "updatedAt": "2026-02-09T12:02:20.898Z"
+}
