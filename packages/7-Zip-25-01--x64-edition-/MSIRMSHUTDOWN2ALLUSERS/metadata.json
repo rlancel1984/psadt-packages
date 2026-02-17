@@ -1,0 +1,15 @@
+{
+  "packageId": "7z2501-x64",
+  "type": "msi",
+  "installerType": "msi",
+  "appVendor": "Igor Pavlov",
+  "appName": "7-Zip 25.01 (x64 edition)",
+  "appVersion": "MSIRMSHUTDOWN2ALLUSERS",
+  "appArch": "x64",
+  "productCode": "{23170F69-40C1-2702-2501-000001000000}",
+  "silentParameters": "/qn /norestart ALLUSERS=1",
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-02-17T09:56:15.582Z",
+  "updatedAt": "2026-02-17T09:58:05.098Z"
+}
