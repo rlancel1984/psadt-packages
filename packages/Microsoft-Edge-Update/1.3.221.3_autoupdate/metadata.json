@@ -1,0 +1,15 @@
+{
+  "packageId": "MicrosoftEdgeWebview2Setup",
+  "type": "exe",
+  "installerType": "wix",
+  "appVendor": "Microsoft Corporation",
+  "appName": "Microsoft Edge Update",
+  "appVersion": "1.3.221.3",
+  "appArch": "x86",
+  "productCode": null,
+  "silentParameters": "/quiet /norestart",
+  "requireAdmin": true,
+  "enableAutoUpdate": true,
+  "createdAt": "2026-02-18T10:48:14.528Z",
+  "updatedAt": "2026-02-18T10:48:52.354Z"
+}
