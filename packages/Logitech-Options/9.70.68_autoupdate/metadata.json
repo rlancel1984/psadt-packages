@@ -1,0 +1,15 @@
+{
+  "packageId": "Logitech.Options",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Logitech",
+  "appName": "Logitech Options",
+  "appVersion": "9.70.68",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install --id Logitech.Options --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": true,
+  "createdAt": "2026-02-18T14:57:22.213Z",
+  "updatedAt": "2026-02-18T14:57:34.941Z"
+}
