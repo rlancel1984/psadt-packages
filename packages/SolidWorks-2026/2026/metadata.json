@@ -1,0 +1,15 @@
+{
+  "packageId": "SolidWorksSetup",
+  "type": "exe",
+  "installerType": "sfx",
+  "appVendor": "SolidWorks",
+  "appName": "SolidWorks 2026",
+  "appVersion": "2026",
+  "appArch": "x86",
+  "productCode": null,
+  "silentParameters": "/S",
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-02-19T11:12:45.301Z",
+  "updatedAt": "2026-02-19T11:14:56.273Z"
+}
