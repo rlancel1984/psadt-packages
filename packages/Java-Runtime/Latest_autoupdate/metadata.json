@@ -1,0 +1,15 @@
+{
+  "packageId": "Oracle.JavaRuntimeEnvironment",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Oracle",
+  "appName": "Java Runtime",
+  "appVersion": "Latest",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install -e --id Oracle.JavaRuntimeEnvironment --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": true,
+  "createdAt": "2026-03-24T14:02:29.265Z",
+  "updatedAt": "2026-03-24T14:06:12.315Z"
+}
