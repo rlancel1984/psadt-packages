@@ -1,0 +1,15 @@
+{
+  "packageId": "7zip.7zip",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Igor Pavlov",
+  "appName": "7-Zip",
+  "appVersion": "Latest",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install --id 7zip.7zip --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": true,
+  "createdAt": "2026-03-31T12:41:55.617Z",
+  "updatedAt": "2026-03-31T12:42:20.409Z"
+}
