@@ -1,0 +1,15 @@
+{
+  "packageId": "IronKey",
+  "type": "exe",
+  "installerType": "unknown",
+  "appVendor": "Kingston",
+  "appName": "IronKey",
+  "appVersion": "3.5.1.0",
+  "appArch": "x86",
+  "productCode": null,
+  "silentParameters": "/S /silent /quiet",
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-04-13T09:03:22.292Z",
+  "updatedAt": "2026-04-13T09:03:36.232Z"
+}
