@@ -1,0 +1,15 @@
+{
+  "packageId": "options_installer",
+  "type": "exe",
+  "installerType": "nsis",
+  "appVendor": "Logitech Inc.",
+  "appName": "LogiOptions Setup",
+  "appVersion": "10.26.14",
+  "appArch": "x86",
+  "productCode": null,
+  "silentParameters": "/S",
+  "requireAdmin": true,
+  "enableAutoUpdate": false,
+  "createdAt": "2026-05-14T06:39:59.419Z",
+  "updatedAt": "2026-05-14T06:40:26.896Z"
+}
