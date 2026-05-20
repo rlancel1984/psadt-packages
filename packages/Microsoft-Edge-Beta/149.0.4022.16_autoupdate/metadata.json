@@ -1,0 +1,15 @@
+{
+  "packageId": "MicrosoftEdgeBetaEnterpriseX64",
+  "type": "msi",
+  "installerType": "msi",
+  "appVendor": "Microsoft Corporation",
+  "appName": "Microsoft Edge Beta",
+  "appVersion": "149.0.4022.16",
+  "appArch": "x64",
+  "productCode": "{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062}",
+  "silentParameters": "/qn /norestart ALLUSERS=1",
+  "requireAdmin": true,
+  "enableAutoUpdate": true,
+  "createdAt": "2026-05-20T11:42:15.106Z",
+  "updatedAt": "2026-05-20T11:44:02.651Z"
+}
