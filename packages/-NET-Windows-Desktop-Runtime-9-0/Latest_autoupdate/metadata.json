@@ -1,0 +1,15 @@
+{
+  "packageId": "Microsoft.DotNet.DesktopRuntime.9",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Microsoft Corporation",
+  "appName": ".NET Windows Desktop Runtime 9.0",
+  "appVersion": "Latest",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install --id Microsoft.DotNet.DesktopRuntime.9 --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": true,
+  "createdAt": "2026-10-08T10:33:03.607Z",
+  "updatedAt": "2026-10-08T10:33:21.229Z"
+}
