@@ -1,0 +1,15 @@
+{
+  "packageId": "Microsoft.dotnet",
+  "type": "winget",
+  "installerType": "winget",
+  "appVendor": "Microsoft Corporation",
+  "appName": ".NET Runtime",
+  "appVersion": "Latest",
+  "appArch": "",
+  "productCode": null,
+  "silentParameters": "install --id Microsoft.dotnet --silent --accept-source-agreements --accept-package-agreements --scope machine",
+  "requireAdmin": true,
+  "enableAutoUpdate": true,
+  "createdAt": "2026-10-08T07:38:35.454Z",
+  "updatedAt": "2026-10-08T07:38:54.765Z"
+}
